@@ -111,4 +111,8 @@
             </plugin>
         </plugins>
     </build>
+         <distributionManagement>
+    <downloadUrl>https://github.com/Sumit-19950708/Release.git</downloadUrl>
+    <status>deployed</status>
+  </distributionManagement>
 </project>
